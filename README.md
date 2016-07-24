@@ -1,3 +1,3 @@
 # test
 test markdown
-[image](ostorage.png)
+![image](https://github.com/zhangguohao/test/blob/master/ostorage.png)
