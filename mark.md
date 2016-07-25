@@ -5,6 +5,8 @@
 
 ---
 ## 前言
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安装脚本主要实现Swift、Keepalived与ELK的安装功能，包括一些常用的命令脚本，如远程执行命令、拷贝文件以及部署ssh无密码访问等等，具体的使用说明，参见doc目录详细说明文档。
+
 ```
 主要实现Swift、Keepalived与装脚本主要实现Swift、Keepalived与ELK的安装功能，包括一些常用的命令脚本，如远程执行命令、拷贝文件以及部署ssh无密码访问等等，具体的使用说明，参见ELK的安装功能，包括一些常用的命令脚本，如远程执行命令、拷贝文件以及部署ssh无密码访问等等，具体
 ```
