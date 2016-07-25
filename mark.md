@@ -137,11 +137,12 @@ $$E=mc^2$$
 
 ### 3. 高亮一段代码[^code]
 
+dddddd^dfgddghgdh^
 ```python
 @requires_authorization
 class SomeClass:
     pass
-
+^yyyyyyyyyyyyyyyyyyyyyy^
 if __name__ == '__main__':
     # A comment
     print 'hello world'
